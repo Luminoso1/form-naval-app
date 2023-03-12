@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-naval-app/build/static/css/main.b4845de7.css",
+    "main.js": "/form-naval-app/build/static/js/main.0d5779d5.js",
+    "static/js/787.f337becf.chunk.js": "/form-naval-app/build/static/js/787.f337becf.chunk.js",
+    "index.html": "/form-naval-app/build/index.html",
+    "main.b4845de7.css.map": "/form-naval-app/build/static/css/main.b4845de7.css.map",
+    "main.0d5779d5.js.map": "/form-naval-app/build/static/js/main.0d5779d5.js.map",
+    "787.f337becf.chunk.js.map": "/form-naval-app/build/static/js/787.f337becf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4845de7.css",
+    "static/js/main.0d5779d5.js"
+  ]
+}
